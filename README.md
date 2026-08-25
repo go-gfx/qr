@@ -2,7 +2,6 @@
 
 [![ci](https://github.com/go-gfx/qr/actions/workflows/ci.yml/badge.svg)](https://github.com/go-gfx/qr/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-gfx/qr.svg)](https://pkg.go.dev/github.com/go-gfx/qr)
-[![Go Report Card](https://goreportcard.com/badge/github.com/go-gfx/qr)](https://goreportcard.com/report/github.com/go-gfx/qr)
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-blue.svg)](LICENSE)
 
 `github.com/go-gfx/qr` is a pure-Go, **CGO=0** QR Code (ISO/IEC 18004) encoder. It
